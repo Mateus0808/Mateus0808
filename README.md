@@ -1,4 +1,4 @@
-## Hey There! I'm Mateus dos Santos 🧔
+## Hey There! I'm Mateus dos Santos 🧑🏻‍💻
 
 - :man_student: **Studying:** Information Tecnology at [UFRN](https://www.ufrn.br/);
 - 🌱 **Learning:** JavaScript, ReactJS, NextJS, TypeScript, Node.js;
