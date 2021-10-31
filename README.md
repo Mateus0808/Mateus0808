@@ -2,7 +2,7 @@
 
 - :man_student: **Studying:** Information Tecnology at [UFRN](https://www.ufrn.br/);
 - 🌱 **Learning:** JavaScript, ReactJS, NextJS, TypeScript, Node.js;
- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/Mateus0808)
+
 <div>
   <a href="https://github.com/Mateus0808">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus0808&show_icons=true&theme=dracula&include_all_commits=true"/>
