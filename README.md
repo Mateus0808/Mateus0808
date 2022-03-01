@@ -1,7 +1,7 @@
 ## Hey There! I'm Mateus dos Santos 🧑🏻‍💻
 
 - :man_student: **Studying:** Information Tecnology at [UFRN](https://www.ufrn.br/);
-- 🌱 **Learning:** JavaScript, ReactJS, NextJS, TypeScript, Node.js and NestJS;
+- 🌱 **Technologies main of work and study:** JavaScript, ReactJS, NextJS, TypeScript, Node.js and NestJS;
 
 <div>
   <a href="https://github.com/Mateus0808">
