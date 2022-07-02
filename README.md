@@ -1,4 +1,4 @@
-## Hey There! I'm Mateus dos Santos 🧑🏻‍💻
+## Hey There! I'm Mateus dos Santos :computer_mouse:💻
 
 - :man_student: **Studying:** Software Engineer at [UFRN](https://www.ufrn.br/);
 - 🌱 **Technologies main of work and study:** JavaScript, ReactJS, NextJS, TypeScript, Node.js (Express e NestJS);
